@@ -28,7 +28,7 @@ public class NetworkUtils {
     private static final String TAG = NetworkUtils.class.getSimpleName();
 
     // TODO insert your API here
-    private static final String API_KEY = "333f6089fb142eef505f72b733f83be9";
+    private static final String API_KEY = "";
     private static final String LANGUAGE = "en-US";
 
     private final static String PARAM_API_KEY = "api_key";
