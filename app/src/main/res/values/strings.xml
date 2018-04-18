@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PopMovies</string>
+    <string name="sort">Sort</string>
+    <string name="sortBy">Sort By</string>
+    <string name="no_data">No data</string>
+    <string name="title_activity_display_message">Details</string>
+    <string name="no_internet_connection">No Internet Connection!</string>
+    <string name="no_internet_message">Please check your internet connection and run the app again!</string>
+    <string name="no_internet_button">Got it!</string>
+    <string name="contentDescriptionImagePoster">This should be a poster image</string>
+    <string name="contentDescriptionImageBackdrop">This should be a backdrop image</string>
+    <string name="textViewSampleText">TextView</string>
+    <string name="trailers_text">Trailers</string>
+    <string name="no_youtube_trailer">Youtube trailer was not found!</string>
+    <string name="tv_reviews">Reviews</string>
+    <string name="favourite">Favourite</string>
+    <string name="ok">OK</string>
+    <string name="favourites_only">Only Favourites tab will work!</string>
+    <string name="contentDescriptionImagePlay">This should be a play button!</string>
+    <string name="content_authority">com.example.mike.popmovies</string>
+
+
+</resources>
