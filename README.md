@@ -12,7 +12,7 @@ In NetworkUtils.java file enter your API_KEY
 
 ## Authors
 
-* **Michal Jastrzebski** - *Initial work* - [Github](https://github.com/ranforsin)
+* **Michal Jastrzebski** - *Initial work* - [Github](https://github.com/howkymike)
 
 ## License
 
